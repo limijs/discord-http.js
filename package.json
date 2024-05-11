@@ -1,0 +1,13 @@
+{
+  "name": "discord-http.js",
+  "version": "1.0.0",
+  "description": "A lightweight library for HTTP interaction-based Discord bots",
+  "main": "index.js",
+  "repository": "https://github.com/limijs/discord-http.js",
+  "author": "limijs <168363599+limijs@users.noreply.github.com>",
+  "license": "MIT",
+  "packageManager": "yarn@4.2.2",
+  "dependencies": {
+    "fastify": "^4.27.0"
+  }
+}
